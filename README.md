@@ -4,4 +4,4 @@ Explora mis proyectos arquitectónicos y diseños innovadores
 
 
 ##Proyectos
--[Landing Page de tipo de Portafolio]( https://gabi672022.github.io/proyectos/PortfolioKarito01/index.html)
+-[Landing Page de tipo de Portafolio]( https://gabi672022.github.io/proyectos/01-PortafolioKarito/PortfolioKarito01/index.html)
